@@ -59,21 +59,7 @@ function App() {
   
   //console.log(boy,girl)
   }
-  function fr(evt){
-    for(let i=0;i<10;i++){ for(let k=0;k<10000;k++)
-      {for(let j=0;j<10000;j++)
-        {}} ft();}
-  
-  }
-  function ft(){
- 
-    
-    setIsred(!isred);
-    for(let k=0;k<10000;k++)
-      {for(let j=0;j<10000;j++)
-        {}}
-   console.log(isred)
-  }
+
   return (
     <div className="container col">
       <br/><br/>
@@ -106,7 +92,7 @@ function App() {
      <span className=" col-2" style={styles}>S</span>
      
      </div>
-     <button onClick={fr}>Toggle</button>
+     
      </center>
     </div>
   );
