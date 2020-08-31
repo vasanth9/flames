@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "db00c329661c1b0aed6a0ccf62271146",
+    "revision": "7cffbc2b44b7897e2cddf986e6fbb13f",
     "url": "/flames/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/flames/static/css/2.f3cffc9e.chunk.css"
   },
   {
-    "revision": "af2a2a6704a6ffb5f88c",
+    "revision": "523a26ba6b1350c61c62",
     "url": "/flames/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/flames/static/js/2.f538195b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "af2a2a6704a6ffb5f88c",
-    "url": "/flames/static/js/main.f8c6121b.chunk.js"
+    "revision": "523a26ba6b1350c61c62",
+    "url": "/flames/static/js/main.80e0d9e7.chunk.js"
   },
   {
     "revision": "819cb8f3834ae044615d",
