@@ -145,9 +145,9 @@ st=st.substr(0,h)+""+st.substr(h+1);
         <center>
          <div className="container form-contol row center">
        
-       <span className="form-control  col-1 "><h5 >Name1:</h5></span>
-          <span className=" col-5" />
-          <span className="form-control col-1 "><h5>Name2:</h5></span>
+       <span className="form-control  col-3 "><h5 >Name1:</h5></span>
+          <span className=" col-3" />
+          <span className="form-control col-3 "><h5>Name2:</h5></span>
           
         </div>
         <div className="container form-contol row center">
