@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/flames/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/flames/static/js/main.ebb6c3b8.chunk.js",
-    "main.js.map": "/flames/static/js/main.ebb6c3b8.chunk.js.map",
+    "main.js": "/flames/static/js/main.f8c6121b.chunk.js",
+    "main.js.map": "/flames/static/js/main.f8c6121b.chunk.js.map",
     "runtime-main.js": "/flames/static/js/runtime-main.9766cf85.js",
     "runtime-main.js.map": "/flames/static/js/runtime-main.9766cf85.js.map",
     "static/css/2.f3cffc9e.chunk.css": "/flames/static/css/2.f3cffc9e.chunk.css",
     "static/js/2.f538195b.chunk.js": "/flames/static/js/2.f538195b.chunk.js",
     "static/js/2.f538195b.chunk.js.map": "/flames/static/js/2.f538195b.chunk.js.map",
     "index.html": "/flames/index.html",
-    "precache-manifest.054768a98bf459dbe703c07f43234828.js": "/flames/precache-manifest.054768a98bf459dbe703c07f43234828.js",
+    "precache-manifest.eaa3d28a9c4ca1c30e243f1b44806a93.js": "/flames/precache-manifest.eaa3d28a9c4ca1c30e243f1b44806a93.js",
     "service-worker.js": "/flames/service-worker.js",
     "static/css/2.f3cffc9e.chunk.css.map": "/flames/static/css/2.f3cffc9e.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/flames/static/css/main.5ecd60fb.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.f3cffc9e.chunk.css",
     "static/js/2.f538195b.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.ebb6c3b8.chunk.js"
+    "static/js/main.f8c6121b.chunk.js"
   ]
 }
